@@ -318,9 +318,16 @@ html {
 
 body {
   min-height: 100%;
-  font: 1.5rem/1.6 'Open Sans', sans-serif; }
+  font: 1.5rem/1.6 'Open Sans', sans-serif;
+  padding: 50px; }
 
 .container {
   margin: 0 auto;
   max-width: 1140px;
   width: 96%; }
+
+.right {
+  color: green; }
+
+.wrong {
+  color: red; }
